@@ -1,77 +1,51 @@
-# Hi 👋, I'm Yash Chauhan  
+# <img width="2000" height="600" alt="YASH CHAUHAN" src="https://github.com/user-attachments/assets/4a0c6a3e-e936-47a2-ba18-4fa448278975" />
 
-### 📊 Data Analyst | SQL • Python • Power BI • Excel  
+# 💫 About Me:
+End-to-end data analysis projects using Python, SQL, and Power BI, focusing on real-world business problems.<br>Beginner-to-intermediate data analysis projects, dashboards, EDA case studies, and open datasets (Kaggle-style projects).<br>Improving advanced SQL queries, performance optimization, and real-world analytics problem framing.<br>Advanced SQL, Power BI DAX, data storytelling, and interview-focused analytics concepts.<br>Python (Pandas, NumPy), SQL queries, EDA, dashboards, and how to structure data analysis projects for portfolios.<br>I enjoy turning messy datasets into clean insights more than working with already-clean data 😄
 
-Turning raw data into clear business insights 📈  
-Learning every day & building real-world analytics projects  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yash Chauhan)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ychauhan150405@gmail.com) 
 
-## 🚀 About Me  
-- 🎯 Data Analyst learner with hands-on project experience  
-- 📍 From India  
-- 💡 Interested in Business Intelligence, Product Analytics & Data Visualization  
-- 🧠 Strong foundation in SQL, Python (EDA), Power BI & Excel  
-
----
-
-## 🌱 Currently Learning  
-- Advanced SQL (CTEs, Window Functions, Optimization)  
-- Power BI DAX & Data Modeling  
-- Business Metrics & KPI Design  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YashCH05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YashCH05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashCH05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=YashCH05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🤝 Open to Collaborate On  
-- Data Analytics Projects  
-- Business Intelligence Dashboards  
-- SQL / Python-based Analysis  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 I’m Currently Working On
+- End-to-end data analytics projects using Python, SQL, and Power BI
+- Cleaning, transforming, and analyzing real-world datasets
+- Building portfolio-ready dashboards with business-focused insights
 
----
+## 👯 I’m Looking to Collaborate On
+- Beginner-to-intermediate data analysis projects
+- Exploratory Data Analysis (EDA) case studies
+- Kaggle-style open datasets and analytics projects
+- SQL-driven business analysis and Power BI dashboards
 
-## 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
+## 🤝 I’m Looking for Help With
+- Advanced and optimized SQL queries
+- Query performance tuning and complex joins
+- Framing real-world business problems into analytical questions
 
----
+## 🌱 I’m Currently Learning
+- Advanced SQL (CTEs, window functions, query optimization)
+- Power BI DAX and data modeling
+- Data storytelling and interview-focused analytics concepts
 
-## 📌 Featured Projects  
-🔹 Myntra Pants End-to-End Analysis  
-🔹 Company Insights 360  
-🔹 E-commerce Shipping Analysis  
-🔹 India AQI Analysis (2020–2025)  
-🔹 Jobs & Market Analytics  
+## 💬 Ask Me About
+- Python (Pandas, NumPy, Matplotlib)
+- SQL queries and data cleaning
+- EDA workflows and dashboards
+- Structuring data analysis projects for strong portfolios
 
-👉 Check pinned repositories below 👇
+## ⚡ Fun Fact
+I enjoy turning messy, unstructured datasets into clean and meaningful insights more than working with already-clean data 😄
 
----
-
-## 📫 How to Reach Me  
-- 📧 Email: **ychauhan150405@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/yash-chauhan-29553b325**  
-
----
-
-✨ *Fun fact: I enjoy cleaning messy datasets more than creating them.*
-
-<!--
-**YashCh05/YashCh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
