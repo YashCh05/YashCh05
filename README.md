@@ -1,6 +1,6 @@
 <img width="2000" height="600" alt="YASH CHAUHAN" src="https://github.com/user-attachments/assets/4a0c6a3e-e936-47a2-ba18-4fa448278975" />
 
-<h3 align="center">Analytics Engineer & Data Analyst</h3>
+<h3 align="center">Data Analyst & Automation Specialist </h3>
 <p align="center">I build the automated data infrastructure that makes reporting possible, not just the reports.</p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About
 
-Analytics Engineer & Data Analyst at **Inalsa Home Appliances**, working across the full data stack: ETL pipeline design, Python RPA bots that remove manual business workflows, full-stack internal tools, and BI dashboards that run on clean automated data.
+Data Analyst & Automation Specialist at **Inalsa Home Appliances**, working across the full data stack: ETL pipeline design, Python RPA bots that remove manual business workflows, full-stack internal tools, and BI dashboards that run on clean automated data.
 
 Most of my work starts one layer earlier than analysis. Before a dashboard can be trusted, something has to reliably pull the data, standardize it, and catch what looks wrong. That layer is what I build.
 
